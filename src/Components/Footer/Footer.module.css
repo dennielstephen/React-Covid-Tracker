@@ -1,0 +1,15 @@
+.container {
+    display: block;
+    justify-content: center;
+  }
+  
+
+li {
+    display: inline-block;
+}
+
+a {
+    color: #cccccc;
+    font-size: 14px;
+    @include transition;
+}
